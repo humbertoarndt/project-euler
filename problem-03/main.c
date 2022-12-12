@@ -6,6 +6,7 @@
 // =============================================================================
 
 // What is the largest prime factor of the number 600851475143 ?
+// https://www.geeksforgeeks.org/prime-factor/
 int main(void)
 {
 	int		i;
