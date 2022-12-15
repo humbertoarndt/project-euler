@@ -17,6 +17,7 @@ For now, must of my solutions will be on C.
 | #007 | [10001st prime](https://github.com/humbertoarndt/project-euler/blob/main/p007.c) | C | 13 Dec 22 (17:51.59) |
 | #008 | [Largest product in a series](https://github.com/humbertoarndt/project-euler/blob/main/p008.c) | C | 13 Dec 22 (21:10.40) |
 | #009 | [Special Pythagorean triplet](https://github.com/humbertoarndt/project-euler/blob/main/p009.c) | C | 14 Dec 22 (16:16.02) |
+| #010 | [Summation of primes](https://github.com/humbertoarndt/project-euler/blob/main/p010.c) | C | 15 Dec 22 (15:31.40) |
 
 ### Academic Code of Honour
 If you have not solved a problem, academic code of honour restricts you from viewing the solutions of those problems.
