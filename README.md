@@ -6,6 +6,8 @@ Repository with my [Project Euler](https://projecteuler.net/) solutions.
 ### Language Used
 For now, must of my solutions will be on C.  
 
+___
+
 | ID | Problem | Language | Solved |
 | :---: | :--- | :---: | :---: |
 | #001 | [Multiples of 3 or 5](https://github.com/humbertoarndt/project-euler/blob/main/p001.c) | C | 01 Apr 22 (16:44.04) |
@@ -18,6 +20,9 @@ For now, must of my solutions will be on C.
 | #008 | [Largest product in a series](https://github.com/humbertoarndt/project-euler/blob/main/p008.c) | C | 13 Dec 22 (21:10.40) |
 | #009 | [Special Pythagorean triplet](https://github.com/humbertoarndt/project-euler/blob/main/p009.c) | C | 14 Dec 22 (16:16.02) |
 | #010 | [Summation of primes](https://github.com/humbertoarndt/project-euler/blob/main/p010.c) | C | 15 Dec 22 (15:31.40) |
+| #011 | [Largest product in a grid](https://github.com/humbertoarndt/project-euler/blob/main/p011.c) | C | 02 Jan 23 (20:27.58) |
+
+---
 
 ### Academic Code of Honour
 If you have not solved a problem, academic code of honour restricts you from viewing the solutions of those problems.
