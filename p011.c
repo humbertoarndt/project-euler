@@ -221,6 +221,3 @@ int		main(void)
  direction in the 20x20 grid is |%d|\n", maximum_product);
 	return (0);
 }
-
-
-
