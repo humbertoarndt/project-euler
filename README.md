@@ -4,7 +4,7 @@
 Repository with my [Project Euler](https://projecteuler.net/) solutions.
 
 ### Used Language
-For now, my solutions arein C.  
+For now, my solutions are in C.  
 ___
 
 | ID | Problem | Language | Solved |
@@ -23,6 +23,8 @@ ___
 | #012 | [Highly divisible triangular number](https://github.com/humbertoarndt/project-euler/blob/main/p012.c) | C | 06 Jan 23 (15:12.54) |
 | #013 | [Large sum](https://github.com/humbertoarndt/project-euler/blob/main/p013.c) | C | 19 Jan 23 (13:08.41) |
 | #014 | [Longest Collatz sequence](https://github.com/humbertoarndt/project-euler/blob/main/p014.c) | C | 19 Jan 23 (16:00.26) |
+| #015 | [Lattice Paths](https://github.com/humbertoarndt/project-euler/blob/main/p015.c) | C | 24 Feb 23 (12:40.46) |
+| #016 | [Power Digit Sum](https://github.com/humbertoarndt/project-euler/blob/main/p016.c) | C | 27 Oct 23 (17:43.27) |
 
 ---
 
