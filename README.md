@@ -25,6 +25,7 @@ ___
 | #014 | [Longest Collatz sequence](https://github.com/humbertoarndt/project-euler/blob/main/p014.c) | C | 19 Jan 23 (16:00.26) |
 | #015 | [Lattice Paths](https://github.com/humbertoarndt/project-euler/blob/main/p015.c) | C | 24 Feb 23 (12:40.46) |
 | #016 | [Power Digit Sum](https://github.com/humbertoarndt/project-euler/blob/main/p016.c) | C | 27 Oct 23 (17:43.27) |
+| #017 | [Number Letter Counts](https://github.com/humbertoarndt/project-euler/blob/main/p017.c) | C | 30 Oct 23 (17:13.27) |
 
 ---
 
