@@ -1,5 +1,5 @@
 # 🧮 Project Euler
-![badge](https://projecteuler.net/profile/humbertoarndt.png?)  
+![badge](https://projecteuler.net/profile/humbertoarndt.png)  
 
 Repository with my [Project Euler](https://projecteuler.net/) solutions.
 
